@@ -1,0 +1,15 @@
+{
+  "Rates": {
+    "fiveStar": "1",
+    "fourStar": "5",
+    "threeStar": "94"
+  },
+  "Pity": {
+    "isActivated": "True",
+    "guaranteedFive": "90",
+    "guaranteedFour": "10"
+  },
+  "Wish": {
+    "cost": "10"
+  }
+}

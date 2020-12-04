@@ -1,0 +1,120 @@
+[
+  {
+    "Name": "Alley Hunter",
+    "Type": "Bow",
+    "Rarity": "4",
+    "Atk": "41",
+    "Secondary": "CRIT Rate",
+    "Passive": "Urban Guerilla",
+    "Bonus": "Every 4s a character is on the field, their ATK increases by 4/5/6/7/8% and their CRIT DMG increases by 4/5/6/7/8%. This effect has a maximum of 5 stacks and will not be reset if the character leaves the field, but will be cleared when the character takes DMG."
+  },
+  {
+    "Name": "Amber Catalyst",
+    "Type": "Catalyst",
+    "Rarity": "3",
+    "Atk": "40",
+    "Secondary": "Elemental Mastery",
+    "Passive": "Elemental Mastery",
+    "Bonus": "Normal Attack hits increase all Elemental DMG by 6/7.5/9/10.5/12% for 6s. Max 2 stacks."
+  },
+  {
+    "Name": "Amos Bow",
+    "Type": "Bow",
+    "Rarity": "5",
+    "Atk": "46",
+    "Secondary": "ATK",
+    "Passive": "Strong-Willed",
+    "Bonus": "Increases Normal Attack and Aimed Shot DMG by 12/15/18/21/24%. Increases DMG from arrows shot by a further 8/10/12/14/16% for every 0.1s that the arrow is in flight, up to 0.5s. Stacks up to 5 times on each arrow."
+  },
+  {
+    "Name": "Apprentice's Notes",
+    "Type": "Catalyst",
+    "Rarity": "1",
+    "Atk": "23",
+    "Secondary": "",
+    "Passive": "",
+    "Bonus": ""
+  },
+  {
+    "Name": "Aquila Favonia",
+    "Type": "Sword",
+    "Rarity": "5",
+    "Atk": "48",
+    "Secondary": "Physical DMG Bonus",
+    "Passive": "Falcon's Defiance",
+    "Bonus": "ATK is increased by 20/25/30/35/40%. Triggers on taking DMG: the soul of the Falcon of the West awakens, holding the banner of the resistance aloft, regenerating HP equal to 100/115/130/145/160% of ATK and dealing 200/230/260/290/320% of ATK as DMG to surrounding enemies. This effect can only occur once every 15s."
+  },
+  {
+    "Name": "Beginner's Protector",
+    "Type": "Polearm",
+    "Rarity": "1",
+    "Atk": "23",
+    "Secondary": "",
+    "Passive": "",
+    "Bonus": ""
+  },
+  {
+    "Name": "Black Tassel",
+    "Type": "Polearm",
+    "Rarity": "3",
+    "Atk": "38",
+    "Secondary": "HP",
+    "Passive": "Bane of the Soft",
+    "Bonus": "Increases DMG against slimes by 40/50/60/70/80%."
+  },
+  {
+    "Name": "Blackcliff Amulet",
+    "Type": "Catalyst",
+    "Rarity": "4",
+    "Atk": "42",
+    "Secondary": "CRIT DMG",
+    "Passive": "Press the Advantage",
+    "Bonus": "After defeating an enemy, ATK is increased by 12/15/18/21/24% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+  },
+  {
+    "Name": "Blackcliff Longsword",
+    "Type": "Sword",
+    "Rarity": "4",
+    "Atk": "44",
+    "Secondary": "CRIT DMG",
+    "Passive": "Press the Advantage",
+    "Bonus": "After defeating an enemy, ATK is increased by 12/15/18/21/24% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+  },
+  {
+    "Name": "Blackcliff Pole",
+    "Type": "Polearm",
+    "Rarity": "4",
+    "Atk": "42",
+    "Secondary": "CRIT DMG",
+    "Passive": "Press the Advantage",
+    "Bonus": "After defeating an enemy, ATK is increased by 12/15/18/21/24% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+  },
+  {
+    "Name": "Blackcliff Slasher",
+    "Type": "Claymore",
+    "Rarity": "4",
+    "Atk": "42",
+    "Secondary": "CRIT DMG",
+    "Passive": "Press the Advantage",
+    "Bonus": "After defeating an enemy, ATK is increased by 12/15/18/21/24% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+  },
+  {
+    "Name": "Blackcliff Warbow",
+    "Type": "Bow",
+    "Rarity": "4",
+    "Atk": "44",
+    "Secondary": "CRIT DMG",
+    "Passive": "Press the Advantage",
+    "Bonus": "After defeating an enemy, ATK is increased by 12/15/18/21/24% for 30s. This effect has a maximum of 3 stacks, and the duration of each stack is independent of the others."
+  },
+  {
+    "Name": "Bloodtainted Greatsword",
+    "Type": "Claymore",
+    "Rarity": "3",
+    "Atk": "38",
+    "Secondary": "Elemental Mastery",
+    "Passive": "Bane of Fire and Thunder",
+    "Bonus": "Increases DMG against enemies affected by Pyro or Electro by 12/15/18/21/24%."
+  }
+
+]
